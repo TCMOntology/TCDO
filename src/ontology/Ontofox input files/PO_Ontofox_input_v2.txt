@@ -1,0 +1,34 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/tcmo/PO_import.owl
+
+[Source ontology]
+PO
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/PO_0009047 #stem
+http://purl.obolibrary.org/obo/PO_0004518 #bark
+http://purl.obolibrary.org/obo/PO_0009085 #exocarp
+http://purl.obolibrary.org/obo/PO_0009046 #flower
+http://purl.obolibrary.org/obo/PO_0025034 #leaf
+http://purl.obolibrary.org/obo/PO_0009001 #fruit
+http://purl.obolibrary.org/obo/PO_0000003 #whole plant
+http://purl.obolibrary.org/obo/PO_0005848 #secondary xylem
+http://purl.obolibrary.org/obo/PO_0009084 #pericarp
+http://purl.obolibrary.org/obo/PO_0025281 #pollen
+http://purl.obolibrary.org/obo/PO_0009005 #root
+http://purl.obolibrary.org/obo/PO_0025073 #branch
+http://purl.obolibrary.org/obo/PO_0025603 #plant resin
+http://purl.obolibrary.org/obo/PO_0004542 #rhizome
+http://purl.obolibrary.org/obo/PO_0009010 #seed
+http://purl.obolibrary.org/obo/PO_0025094 #sporangium
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/PO_0025131 #plant anatomical entity
+
+[Source term retrieval setting]
+includeAllIntermediates
+
+[Source annotation URIs]
+includeAllAxiomsRecursively
+
+[Source annotation URIs to be excluded]
