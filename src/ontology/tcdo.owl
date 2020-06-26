@@ -293,6 +293,9 @@
         <Class IRI="http://www.OntoTCM.org.cn/ontologies/TCDO_0000083"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://www.OntoTCM.org.cn/ontologies/TCDO_0000084"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://www.OntoTCM.org.cn/ontologies/TCDO_0000093"/>
     </Declaration>
     <Declaration>
@@ -3601,6 +3604,10 @@
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001025"/>
             <Class IRI="http://www.OntoTCM.org.cn/ontologies/TCDO_0400009"/>
         </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.OntoTCM.org.cn/ontologies/TCDO_0000084"/>
+        <Class IRI="http://www.OntoTCM.org.cn/ontologies/TCDO_1000000"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.OntoTCM.org.cn/ontologies/TCDO_0000093"/>
@@ -32423,6 +32430,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://www.OntoTCM.org.cn/ontologies/TCDO_0000083</IRI>
         <Literal xml:lang="zh" datatypeIRI="&rdf;PlainLiteral">归膀胱经</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.OntoTCM.org.cn/ontologies/TCDO_0000084</IRI>
+        <Literal xml:lang="zh" datatypeIRI="&rdf;PlainLiteral">防风通圣丸</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
