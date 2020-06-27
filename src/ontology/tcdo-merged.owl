@@ -13,7 +13,7 @@
      xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#">
-	<owl:Ontology rdf:about="http://www.OntoTCM.org.cn/ontologies/tcdo.owl">  
+	<owl:Ontology rdf:about="http://www.ontotcm.org.cn/ontologies/tcdo.owl">  
         <dc:creator>Yan Zhu</dc:creator>
         <dc:creator>Yongqun Oliver He</dc:creator>
         <dc:description>TCDO is an open source, community-based biomedical ontology in the area of traditional Chinese medicine drugs.</dc:description>

@@ -12,7 +12,7 @@
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#">
-	<owl:Ontology rdf:about="http://www.OntoTCM.org.cn/ontologies/tcdo.owl">  
+	<owl:Ontology rdf:about="http://www.ontotcm.org.cn/ontologies/tcdo.owl">  
         <imports rdf:resource="http://purl.obolibrary.org/obo/iao/2017-03-24/ontology-metadata.owl"/>
         <imports rdf:resource="http://purl.obolibrary.org/obo/tcdo/OAE_import.owl"/>
         <imports rdf:resource="http://purl.obolibrary.org/obo/tcdo/PATO_import.owl"/>
