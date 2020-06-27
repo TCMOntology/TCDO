@@ -6,6 +6,11 @@ RO
 
 [Low level source term URIs]
 http://purl.obolibrary.org/obo/RO_0002577 #system
+http://purl.obolibrary.org/obo/RO_0001000 #derives from
+http://purl.obolibrary.org/obo/RO_0002225 #develops from part of
+http://purl.obolibrary.org/obo/BFO_0000051 #has part
+
+
 
 
 [Top level source term URIs and target direct superclass URIs]

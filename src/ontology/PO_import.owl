@@ -11,15 +11,15 @@
 ]>
 
 
-<rdf:RDF xmlns="&obo;tcmo/PO_import.owl#"
-     xml:base="&obo;tcmo/PO_import.owl"
+<rdf:RDF xmlns="&obo;tcdo/PO_import.owl#"
+     xml:base="&obo;tcdo/PO_import.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
-    <owl:Ontology rdf:about="&obo;tcmo/PO_import.owl"/>
+    <owl:Ontology rdf:about="&obo;tcdo/PO_import.owl"/>
     
 
 

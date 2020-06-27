@@ -12,8 +12,8 @@
 ]>
 
 
-<rdf:RDF xmlns="&obo;tcmol/NCBITaxon_import.owl#"
-     xml:base="&obo;tcmol/NCBITaxon_import.owl"
+<rdf:RDF xmlns="&obo;tcdo/NCBITaxon_import.owl#"
+     xml:base="&obo;tcdo/NCBITaxon_import.owl"
      xmlns:ncbitaxon="&obo;ncbitaxon#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -21,7 +21,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
-    <owl:Ontology rdf:about="&obo;tcmol/NCBITaxon_import.owl"/>
+    <owl:Ontology rdf:about="&obo;tcdo/NCBITaxon_import.owl"/>
     
 
 

@@ -8,7 +8,7 @@
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/tcmo/BFO_import.owl"/>
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/tcdo/BFO_import.owl"/>
     
 
 
@@ -515,29 +515,11 @@
      -->
 
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/bfo.owl">
-        <dc:contributor>Alan Ruttenberg</dc:contributor>
-        <dc:contributor>Bill Duncan</dc:contributor>
-        <dc:contributor>Stefan Schulz</dc:contributor>
-        <dc:contributor>Melanie Courtot</dc:contributor>
+
         <obo:IAO_0000116>BFO 2 Reference: BFO does not claim to be a complete coverage of all entities. It seeks only to provide coverage of those entities studied by empirical science together with those entities which affect or are involved in human activities such as data processing and planning – coverage that is sufficiently broad to provide assistance to those engaged in building domain ontologies for purposes of data annotation [17</obo:IAO_0000116>
-        <dc:contributor>Mark Ressler</dc:contributor>
-        <dc:contributor>Fabian Neuhaus</dc:contributor>
-        <dc:contributor>Thomas Bittner</dc:contributor>
-        <dc:contributor>Bjoern Peters</dc:contributor>
-        <dc:contributor>Mauricio Almeida</dc:contributor>
-        <dc:contributor>David Osumi-Sutherland</dc:contributor>
+
         <obo:IAO_0000116>BFO 2 Reference: For both terms and relational expressions in BFO, we distinguish between primitive and defined. ‘Entity’ is an example of one such primitive term. Primitive terms in a highest-level ontology such as BFO are terms that are so basic to our understanding of reality that there is no way of defining them in a non-circular fashion. For these, therefore, we can provide only elucidations, supplemented by examples and by axioms.</obo:IAO_0000116>
-        <dc:contributor>Leonard Jacuzzo</dc:contributor>
-        <dc:contributor>Janna Hastings</dc:contributor>
-        <dc:contributor>Mathias Brochhausen</dc:contributor>
-        <dc:contributor>Randall Dipert</dc:contributor>
-        <dc:contributor>Robert Rovetto</dc:contributor>
-        <dc:contributor>Larry Hunter</dc:contributor>
-        <dc:contributor>Albert Goldfain</dc:contributor>
-        <dc:contributor>Chris Mungall</dc:contributor>
-        <dc:contributor>Jie Zheng</dc:contributor>
-        <dc:contributor>Barry Smith</dc:contributor>
-        <dc:contributor>Ludger Jansen</dc:contributor>
+
         <rdfs:comment xml:lang="en">The http://purl.obolibary.org/obo/bfo/classes-only.owl variant of BFO (&quot;bfo_classes_only.owl&quot;) includes only the class hierarchy and annotations from the full OWL version of BFO 2: http://purl.obolibary.org/obo/bfo.owl (&quot;bfo.owl&quot;). There are no object properties or logical axioms that use the object properties in bfo_classes_only.owl. As the logical axioms in the bfo_classes_only.owl variant are limited to subclass and disjoint assertions they are much weaker than the logical axioms in bfo.owl.
  
 If you plan to use the relations that define BFO 2, you should import bfo.owl instead of bfo_classes_only.owl. To the extent that the relations are used without importing bfo.owl, be mindful that they should be used in a manner consistent with their use in bfo.owl. Otherwise if your ontology is imported by a another ontology that imports bfo.owl there may be inconsistencies. 

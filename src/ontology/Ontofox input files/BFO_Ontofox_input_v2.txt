@@ -16,6 +16,7 @@ http://purl.obolibrary.org/obo/BFO_0000038 # one-dimensional temporal region
 http://purl.obolibrary.org/obo/BFO_0000148 #zero-dimensional temporal region
 http://purl.obolibrary.org/obo/BFO_0000029 #site
 
+
 [Top level source term URIs and target direct superclass URIs]
 http://purl.obolibrary.org/obo/BFO_0000001 #entity
 
