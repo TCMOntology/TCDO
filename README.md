@@ -10,4 +10,8 @@ More than 400 popular TCD decoction pieces (TCD-DP) were selected from authorita
 Zhu, Yan (朱彦)：Institute of Information on Traditional Chinese Medicine (IITCM), China Academy of Chinese Medical Sciences(CACMS), Beijing, China （中国中医科学院中医药信息研究所）
 He, Yongqun (何勇群)：University of Michigan, Ann Arbor, MI, USA
 
-Liu, Lihong(刘丽红); Qiao, XingChao(乔幸潮); Gao, Bo（高博）; Liu, Jing（刘静）: Institute of Information on Traditional Chinese Medicine (IITCM), China Academy of Chinese Medical Sciences(CACMS), Beijing, China （中国中医科学院中医药信息研究所）
+Liu, Lihong (刘丽红); Qiao, XingChao (乔幸潮); Gao, Bo（高博）; Liu, Jing（刘静）: Institute of Information on Traditional Chinese Medicine (IITCM), China Academy of Chinese Medical Sciences(CACMS), Beijing, China （中国中医科学院中医药信息研究所）
+
+## Repository
+BioPortal: http://bioportal.bioontology.org/ontologies/TCDO 
+
