@@ -6,14 +6,14 @@
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/tcdo/PATO_import.owl" uri="PATO_import.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/iao/2017-03-24/ontology-metadata.owl" uri="http://purl.obolibrary.org/obo/iao/ontology-metadata.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1622018317618" name="duplicate:http://OntoTCM.org.cn/ontologies/TCDO/" uri="tcdo-merged.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1622018317618" name="duplicate:http://OntoTCM.org.cn/ontologies/TCDO/" uri="tcdo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1622018317618" name="http://purl.obolibrary.org/obo/tcdo/NCBITaxon_import.owl" uri="NCBITaxon_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1622018317618" name="http://purl.obolibrary.org/obo/tcdo/OAE_import.owl" uri="OAE_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1622018317618" name="http://purl.obolibrary.org/obo/tcdo/PATO_import.owl" uri="PATO_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1622018317618" name="http://purl.obolibrary.org/obo/tcdo/PO_import.owl" uri="PO_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1622018317618" name="http://purl.obolibrary.org/obo/tcdo/RO_import.owl" uri="RO_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1622018317618" name="http://purl.obolibrary.org/obo/tcmo/BFO_import.owl" uri="BFO_import.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1622018317618" name="http://www.w3.org/2002/07/owl#" uri="tcdo-base.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1622451539790" name="duplicate:http://OntoTCM.org.cn/ontologies/TCDO/" uri="tcdo-merged.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1622451539790" name="duplicate:http://OntoTCM.org.cn/ontologies/TCDO/" uri="tcdo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1622451539790" name="http://purl.obolibrary.org/obo/tcdo/NCBITaxon_import.owl" uri="NCBITaxon_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1622451539790" name="http://purl.obolibrary.org/obo/tcdo/OAE_import.owl" uri="OAE_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1622451539790" name="http://purl.obolibrary.org/obo/tcdo/PATO_import.owl" uri="PATO_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1622451539790" name="http://purl.obolibrary.org/obo/tcdo/PO_import.owl" uri="PO_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1622451539790" name="http://purl.obolibrary.org/obo/tcdo/RO_import.owl" uri="RO_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1622451539790" name="http://purl.obolibrary.org/obo/tcmo/BFO_import.owl" uri="BFO_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1622451539790" name="http://www.w3.org/2002/07/owl#" uri="tcdo-base.owl"/>
     </group>
 </catalog>
