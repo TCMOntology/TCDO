@@ -569,6 +569,7 @@ http://purl.obolibrary.org/obo/NCBITaxon_117953
 http://purl.obolibrary.org/obo/NCBITaxon_225203
 http://purl.obolibrary.org/obo/NCBITaxon_553056
 http://purl.obolibrary.org/obo/NCBITaxon_152093
+http://purl.obolibrary.org/obo/NCBITaxon_34884
 
 
 [Top level source term URIs and target direct superclass URIs]
